@@ -1,6 +1,5 @@
 # Local.terraform directories and cache
 .terraform/
-.terraform.*
 
 # Local state files (if generated accidentally)
 *.tfstate
