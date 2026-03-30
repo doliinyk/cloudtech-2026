@@ -11,3 +11,9 @@ crash.log
 # Variables files containing sensitive data
 *.tfvars
 .env
+
+# JavaScript dependencies
+node_modules
+
+# Archives
+*.zip
